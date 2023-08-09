@@ -150,6 +150,7 @@ a {
 
 /* Expertise */
 .skills_list {
+	color: white;
 	margin-top: 1rem;
 	margin-left: 2rem;
 	line-height: 2;
