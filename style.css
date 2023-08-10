@@ -202,7 +202,7 @@ a {
 	align-items: center;
 	justify-content: center;
 	gap: 0.5rem;
-	color: var(--text-color);
+	color: white;
 }
 .interest_item svg {
 	width: 2rem;
