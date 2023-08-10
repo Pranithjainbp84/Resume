@@ -6,13 +6,14 @@
 	box-sizing: border-box;
 }
 :root {
-	--primary-color: #ff7613;
-	--text-color: #727171;
+	--primary-color: #cc5003;
+	--text-color: #a0a0a0;
 }
 html {
 	font-size: 10px;
 }
 body {
+	background: transparent; /* Use a transparent background */
 	font-family: Inter, sans-serif;
 	background-color: black;
 	color: white;
@@ -20,7 +21,9 @@ body {
 
 /* common styles */
 img {
-	width: 100%;
+	margin: -5%;
+	width: 120%;
+	height: 70%;
 }
 a {
 	text-decoration: none;
@@ -31,6 +34,7 @@ a {
 	font-size: 1.5rem;
 	font-weight: 400;
 	color: var(--text-color);
+	text-align: justify;
 }
 .title {
 	color: var(--primary-color);
@@ -237,4 +241,9 @@ hr {
 	hr {
 		margin: 0 auto;
 	}
+}
+
+/* Gradient Background */
+.container {
+    background:  linear-gradient(135deg, #434343 10%, #000000 100%); /* Use a semi-transparent gradient background */
 }
