@@ -44,10 +44,12 @@ I welcome contributions and improvements to enhance the design and functionality
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out:
+If you have any questions, suggestions, or would like to connect, feel free to reach out:
 
-- Your Name: [Your Email](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourusername/)
+- Your Name: [Pranithjain](mailto:pranithjainbp84@gmail.com)
+- LinkedIn: [Pranithjain](https://www.linkedin.com/in/pranith-jain-bp-a2704024b/)
+- Twitter: [Pranithjain](https://twitter.com/PranithJain84/)
+
+
 
 Thank you for visiting my personal resume website. I hope you find it informative and engaging.
