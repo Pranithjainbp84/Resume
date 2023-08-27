@@ -4,6 +4,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 :root {
 	--primary-color: #cc5003;
